@@ -1,0 +1,5 @@
+* rerun fill_potential cabins after rows imputed 
+
+
+
+* for write up show how many empty cabins there are that we know of and how many uncabined people
