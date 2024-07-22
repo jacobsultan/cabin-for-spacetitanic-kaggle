@@ -9,3 +9,6 @@ Please refer to Final.ipynb for the Code I will be uploading to kaggle as an exp
 
 
 It starts with some preprocessing of the data useful for my algorithms and some results found by others which also assist before moving onto my methods
+
+
+https://www.kaggle.com/code/jacobsultan/how-to-impute-nearly-every-cabin-correctly/notebook
